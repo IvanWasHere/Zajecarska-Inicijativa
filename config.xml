@@ -5,6 +5,11 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.mywpempire.zajecarska-inicijativa"
         version   = "1.0.0">
+    
+    <icon src="icon.png" gap:platform="android" gap:density="ldpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="mdpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="hdpi" />
+    <icon src="icon.png" gap:platform="android" gap:density="xhdpi" />
 
     <name>Zajecarska Inicijativa</name>
 
